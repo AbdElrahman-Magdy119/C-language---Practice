@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1667960221 source:c:\users\microsoft\downloads\p5p\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1667960221 source:e:\c\day5\p5p\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1666860956 source:d:\work\instructor\c\intake 43\assiut-pwd\day4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1666862102 source:d:\iti 9 months\c\day4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+

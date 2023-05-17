@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667307131 source:c:\users\microsoft\downloads\project8\main.c
+	<stdio.h>
+	<stdlib.h>
+

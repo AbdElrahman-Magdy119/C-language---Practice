@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1668073282 source:c:\users\microsoft\downloads\p4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1668287525 source:e:\c\day6\p4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

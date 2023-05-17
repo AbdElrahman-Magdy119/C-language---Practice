@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1667303145 source:c:\users\microsoft\downloads\pro5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1667303145 source:e:\c\day2\pro5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
